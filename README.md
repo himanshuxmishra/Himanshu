@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/divyansh-1503/divyansh-1503/blob/f415b414c271676ba227f5099c02b6dd8ac7c2c5/Divyansh.gif?raw=true" 
+  <img src="https://github.com/himanshuxmishra/Himanshu/blob/0162df0b807a942a228e9d42a916340a17d82a2c/ChatGPT%20Image%20Sep%205%2C%202025%2C%2011_50_47%20PM.png" 
        alt="Himanshu Mani Mishra Banner" width="100%" height="250px" style="object-fit: cover;" />
 </p>
 

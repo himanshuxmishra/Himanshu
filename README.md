@@ -66,21 +66,4 @@ I'm Himanshu Mani Mishra, a software enthusiast dedicated to learn and grow.<br>
 ---
 
 <h3 align="left">📂 Projects</h3>
-
-<p align="left">
-  <a href="https://divyansh-port.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-000000?style=for-the-badge" alt="Portfolio Website" />
-  </a>
-  <br>
-  <a href="https://infinity-courses.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Infinity%20Courses-1E90FF?style=for-the-badge" alt="Infinity Courses" />
-  </a>
-  <br>
-  <a href="https://proprephub.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/ProPrepHub-FF4500?style=for-the-badge" alt="ProPrepHub" />
-  </a>
-  <br>
-  <a href="https://dsa-visualizer-ten-lyart.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/DSA--Visualizer-228B22?style=for-the-badge" alt="DSA-Visualizer" />
-  </a>
-</p>
+  
